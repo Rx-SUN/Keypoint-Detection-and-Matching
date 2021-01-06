@@ -1,3 +1,0 @@
-/home/rx-sun/projects/Keypoint-Detection-and-Matching/build/CMakeFiles/rebuild_cache.dir
-/home/rx-sun/projects/Keypoint-Detection-and-Matching/build/CMakeFiles/edit_cache.dir
-/home/rx-sun/projects/Keypoint-Detection-and-Matching/build/CMakeFiles/test.dir
